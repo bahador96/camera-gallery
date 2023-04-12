@@ -1,4 +1,4 @@
-# flutter_application_1
+# Camera and gallery
 
 A new Flutter project.
 
